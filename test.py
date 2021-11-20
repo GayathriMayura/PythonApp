@@ -1,2 +1,2 @@
 print('Hello World!')
-print("Welcome to VSC1")
+print("Welcome to VSC2")
